@@ -3,7 +3,7 @@ urlShortener is a test project created by Matso Ruslan.
 # Project setup
 To run this project after pulling it you need to:
 - Set project SDK to java 1.8.
-- Configure project as Web one (add Web framework support
+- Configure project as Web one (add Web framework support)
 - Enable Maven on this project
 - Change user name and password of your mysql db connection in com/matso/config/AppConfig.java:
   * dataSource.setUsername("userName");
